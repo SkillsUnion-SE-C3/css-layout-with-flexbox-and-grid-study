@@ -22,7 +22,7 @@ Read and get familiarize with sample codes in folders `./flexbox` and `./grid` f
 Name the CSS properties of Flexbox Layout that are applicable to the **parent** container.
 
 ```
-/* flrx-direction, flex-wrap, flex-flow, justify-content, align-items, align-content, gap, row-gap, column-gap, */
+/* flex-direction, flex-wrap, flex-flow, justify-content, align-items, align-content, gap, row-gap, column-gap, */
 ```
 
 Name the CSS properties of Flexbox Layout that are applicable to the **children** container.
