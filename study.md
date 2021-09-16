@@ -9,7 +9,7 @@ Read these links:
 - [CSS Flexbox Layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [CSS Grid Layout](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
---- 
+---
 
 ## Part 2 - Look at sample code
 
@@ -22,23 +22,58 @@ Read and get familiarize with sample codes in folders `./flexbox` and `./grid` f
 Name the CSS properties of Flexbox Layout that are applicable to the **parent** container.
 
 ```
-/* Your answers here */
+Display
+Flex-Direction
+Flex-Wrap
+Flex-Flow
+Justify Content
+Align-Items
+Align-Content
+Gap, Row-Gap, Column-Gap
+
 ```
 
 Name the CSS properties of Flexbox Layout that are applicable to the **children** container.
 
 ```
-/* Your answers here */
+Order
+Flex-Grow
+Flex-Shrink
+Flex-Basis
+Flex
+Align-Self
 ```
 
 Name the CSS properties of Grid Layout that are applicable to the **parent** container.
 
 ```
-/* Your answers here */
+Display
+Grid-Template-Columns/Rows
+Grid-Template-Areas
+Grid-Template
+Column/Row-Gap
+Grid-Column/Row-Gap
+Grid
+Grid-Gap
+Justify-Items
+Align-Items
+Place-Items
+Justify-Content
+Align-Content
+Place-Content
+Grid-Auto-Columns/Rows
+Grid-Auto-Flow
+Grid
 ```
 
 Name the CSS properties of Grid Layout that are applicable to the **children** container.
 
 ```
-/* Your answers here */
+Grid-Column/Row-Start/End
+Grid-Column/Row
+Grid-Area
+Justify-Self
+Align-Self
+Place-Self
+
 ```
