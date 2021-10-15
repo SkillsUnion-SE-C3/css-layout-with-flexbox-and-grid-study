@@ -22,23 +22,80 @@ Read and get familiarize with sample codes in folders `./flexbox` and `./grid` f
 Name the CSS properties of Flexbox Layout that are applicable to the **parent** container.
 
 ```
-/* Your answers here */
+display
+•	flex-direction
+•	flex-wrap
+•	flex-flow
+•	justify-content
+•	align-items
+•	align-content
+•	gap, row-gap, column-gap
+/* 
+•	display
+•	flex-direction
+•	flex-wrap
+•	flex-flow
+•	justify-content
+•	align-items
+•	align-content
+•	gap, row-gap, column-gap
+ */
 ```
 
 Name the CSS properties of Flexbox Layout that are applicable to the **children** container.
 
 ```
-/* Your answers here */
+/* 
+• order
+•	flex-grow
+•	flex-shrink
+•	flex-basis
+•	flex
+•	align-self
+ */
 ```
 
 Name the CSS properties of Grid Layout that are applicable to the **parent** container.
 
 ```
-/* Your answers here */
+/* 
+•	display
+•	grid-template-columns
+•	grid-template-rows
+•	grid-template-areas
+•	grid-template
+•	column-gap
+•	row-gap
+•	grid-column-gap
+•	grid-row-gap
+•	gap
+•	grid-gap
+•	justify-items
+•	align-items
+•	place-items
+•	justify-content
+•	align-content
+•	place-content
+•	grid-auto-columns
+•	grid-auto-rows
+•	grid-auto-flow
+•	grid
+ */
 ```
 
 Name the CSS properties of Grid Layout that are applicable to the **children** container.
 
 ```
-/* Your answers here */
+/* 
+• grid-column-start
+•	grid-column-end
+•	grid-row-start
+•	grid-row-end
+•	grid-column
+•	grid-row
+•	grid-area
+•	justify-self
+•	align-self
+•	place-self
+  */
 ```
